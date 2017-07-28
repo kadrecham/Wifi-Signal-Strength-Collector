@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Scan</string>
+    <string name="room_number">Enter a room number</string>
+    <string name="stop">Stop</string>
+    <string name="scan">Scan</string>
+    <string name="list">List of available Wifi</string>
+    <string-array name="room_names">
+        <item>Select a room</item>
+        <item>WDF03:I3.01</item>
+        <item>WDF03:I3.02</item>
+        <item>WDF03:I3.03</item>
+        <item>WDF03:I3.04</item>
+        <item>WDF03:I3.05</item>
+        <item>WDF03:I3.06</item>
+        <item>WDF03:I3.07</item>
+        <item>WDF03:I3.08</item>
+        <item>WDF03:I3.09</item>
+        <item>WDF03:I3.10</item>
+        <item>WDF03:I3.11</item>
+        <item>WDF03:I3.12</item>
+        <item>WDF03:I3.13</item>
+        <item>WDF03:I3.14</item>
+        <item>WDF03:I3.15</item>
+        <item>WDF03:I3.16</item>
+        <item>WDF03:I3.17</item>
+        <item>WDF03:I3.18</item>
+        <item>WDF03:I3.19</item>
+        <item>WDF03:I3.20</item>
+        <item>WDF03:I3.21</item>
+        <item>WDF03:I3.22</item>
+        <item>WDF03:I3.23</item>
+        <item>WDF03:I3.24</item>
+        <item>WDF03:I3.25</item>
+    </string-array>
+</resources>
